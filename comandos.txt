@@ -1,0 +1,14 @@
+## Instalar Angular
+>> npm install -g @angular/cli
+
+## Generar nuevo proyecto en Angular
+>> ng new NombreAplicacion
+
+## Ejecutar la NombreAplicacion
+>> ng serve
+
+###############################################
+
+## Aplicacion AngularFireBase
+### Instalar unas librerias y depencias para ocupar la Aplicacion
+>> npm i materialize-css jquery font-awesome firebase angularfire2
